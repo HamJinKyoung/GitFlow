@@ -1,3 +1,13 @@
 ﻿test파일 입니다.
 
 git command에 대해 연습하고 있습니다.
+
+git init
+
+git remote -v
+
+git remote add origin git주소
+
+git commit -m "메시지"
+
+git push origin master
